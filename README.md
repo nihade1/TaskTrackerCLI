@@ -28,4 +28,6 @@ Run the program:
 ```bash
 python main.py
 
-the url to this project is :https://roadmap.sh/projects/task-tracker
+## URL to this project
+
+https://roadmap.sh/projects/task-tracker
